@@ -1,0 +1,20 @@
+{
+  "name": "Stellarium Huế - Bản Đồ Sao & Thiên Văn THPT Hương Thủy",
+  "short_name": "Stellarium Huế",
+  "description": "Ứng dụng Bản đồ sao & Thiên văn thời gian thực tại TP. Huế - Chuyên đề Vật lí 10 (Tổ Vật Lí-CN - THPT Hương Thủy)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

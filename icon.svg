@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="115" fill="url(#skyGrad)" />
+  <circle cx="256" cy="240" r="175" fill="none" stroke="#38bdf8" stroke-width="6" stroke-dasharray="14 10" opacity="0.45" />
+  <path d="M295 125c-55 0-100 45-100 100s45 100 100 100c22 0 42-7 59-19-18 29-50 49-87 49-57 0-103-46-103-103s46-103 103-103c10 0 19 1 28 4z" fill="#fde047" />
+  <polygon points="348,118 361,150 396,153 369,175 378,209 348,190 318,209 327,175 300,153 335,150" fill="#ffffff" />
+  <!-- Kỳ Đài Huế Silhouette -->
+  <rect x="146" y="390" width="220" height="32" rx="4" fill="#091912" stroke="#38bdf8" stroke-width="4" />
+  <rect x="176" y="364" width="160" height="26" rx="3" fill="#091912" stroke="#38bdf8" stroke-width="4" />
+  <rect x="206" y="342" width="100" height="22" rx="3" fill="#091912" stroke="#38bdf8" stroke-width="4" />
+  <line x1="256" y1="285" x2="256" y2="342" stroke="#f8fafc" stroke-width="6" />
+  <rect x="259" y="285" width="38" height="24" fill="#ef4444" />
+</svg>
